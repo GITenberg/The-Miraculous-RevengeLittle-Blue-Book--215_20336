@@ -1,0 +1,43 @@
+_repo: The-Miraculous-RevengeLittle-Blue-Book--215_20336
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shaw, Bernard
+    aliases:
+    - Shaw, George Bernard
+    - Shaw, Bernhard
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+  editor:
+    agent_name: Haldeman-Julius, E. (Emanuel)
+    aliases:
+    - Haldeman-Julius, Emanuel
+    - Julius, Emanuel
+    birthdate: 1888
+    deathdate: 1951
+    gutenberg_agent_id: '486'
+    url: http://www.gutenberg.org/2009/agents/486
+    wikipedia: http://en.wikipedia.org/wiki/E._Haldeman-Julius
+description: ''
+gutenberg_issued: '2007-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Miracles -- Fiction'
+- !lcc 'PR'
+title: 'The Miraculous Revenge
+
+  Little Blue Book #215'
+url: http://www.gutenberg.org/ebooks/20336
